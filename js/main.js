@@ -433,4 +433,4 @@ else{
   window.top.document.title = "马来西亚旅行变得轻松"
   console.log("hel")
 }
-console.log(window.top.document.title)
+console.log(document)
